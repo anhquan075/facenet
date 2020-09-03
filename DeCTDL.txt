@@ -1,0 +1,11 @@
+1. PP kết nối
+2. PP dò tuyến tính
+3. PP dò tuyến tính bậc 2
+4. PP băm kép
+
+Câu 1: Tạo dữ liệu tự động
+Câu 2: Tạo dữ liệu từ bàn phím
+Câu 3: In
+Câu 4: Xóa 1 giá trị
+Câu 5: Tìm kiếm
+Câu 6: Menu
